@@ -10,11 +10,11 @@ Release Date:
 =======================================================================
 2023-06-25
 
-Author: 
+Theme author: 
 =======================================================================
 Xiaoying Riley at 3rd Wave Media (http://themes.3rdwavemedia.com/)
 
-Contact:
+Contact the author of the theme:
 =======================================================================
 Web: http://themes.3rdwavemedia.com/
 Email: themes@3rdwavemedia.com
